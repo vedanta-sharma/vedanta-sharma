@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2021/08/Animation-Styles-for-Beginners-header.jpg)
 <h1 align="center">Hi 👋, I'm Vedanta Sharma</h1>
 <h3 align="center">A passionate Data Engineer</h3>
-<img align = "right" alt = "Coding" width="400" src="https://assets.codepen.io/837599/internal/avatars/users/default.png?fit=crop&format=auto&height=128&version=1&width=128">
+<img align = "right" alt = "Coding" width="128" src="https://assets.codepen.io/837599/internal/avatars/users/default.png?fit=crop&format=auto&height=128&version=1&width=128">
 - 📫 How to reach me: DM @ https://tinyurl.com/294jw5o7
 
 <h3 align="left">Connect with me:</h3>
